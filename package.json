@@ -16,7 +16,8 @@
     "better-sqlite3": "8.0.1",
     "firebase": "^9.22.0",
     "firebase-admin": "^11.8.0",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "pg": "^8.11.1"
   },
   "author": {
     "name": "A Strapi developer"
